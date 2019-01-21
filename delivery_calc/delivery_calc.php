@@ -5,7 +5,7 @@
  */
 /*
 Plugin Name: Delivery Calc
-Plugin URI: https://github.com/PashaWNN/delivery_calculator_wordpress/
+Plugin URI: https://github.com/PashaWNN/delivery_calc_wordpress/
 Description: Calculates. :)
 Author: Pavel Shishmarev
 Version: 0.0.1
